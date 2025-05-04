@@ -17,6 +17,7 @@ SegNetProject/
 9.Save and load model
 10.Prediction
 
+---
 
 ## 🚀 Key Features
 
