@@ -13,13 +13,20 @@ SegNetProject/
 
 3.Load image
 
-4.Assign class labels using kmeans for segmented images:
-5.Loading data for training using data generator:
+4.Assign class labels using kmeans for segmented images
+
+5.Loading data for training using data generator
+
 6.Segnet model architecture
+
 7.Training segnet model
+
 8.Convert predicted classes output into image
+
 9.Save and load model
+
 10.Prediction
+
 
 ---
 
@@ -31,7 +38,9 @@ SegNetProject/
 - **Metrics**: Pixel accuracy, Mean IoU, per-class IoU.
 - **Visualization**: Saves predicted segmentation masks for test data.
 
-🏗️ Model Architecture
+---
+
+ ## 🏗️ Model Architecture
 The model uses:
 
 Encoder: 5 convolution + max-pooling blocks (like VGG16)
@@ -40,13 +49,14 @@ Decoder: 5 upsampling + convolution blocks using max-pooling indices
 
 Final Layer: Softmax over 11 classes
 
+---
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 Pixel Accuracy
 
 Mean Intersection over Union (mIoU)
 
 Per-Class Accuracy
 
-👨‍💻 Author
+## 👨‍💻 Author
 Bhukya Dayanand
