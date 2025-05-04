@@ -6,9 +6,13 @@ This project implements a semantic segmentation model based on the SegNet archit
 
 ## 📁 Project Structure
 SegNetProject/
+
 1.Data preprocessing
+
 2.Import all libraries
+
 3.Load image
+
 4.Assign class labels using kmeans for segmented images:
 5.Loading data for training using data generator:
 6.Segnet model architecture
