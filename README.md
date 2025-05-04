@@ -16,7 +16,6 @@ SegNetProject/
 8.Convert predicted classes output into image
 9.Save and load model
 10.Prediction
-![image](https://github.com/user-attachments/assets/5825df2f-ca22-47a3-a6f7-fbd2991de81b)
 
 
 ## 🚀 Key Features
